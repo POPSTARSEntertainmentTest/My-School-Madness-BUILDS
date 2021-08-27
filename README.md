@@ -11,7 +11,7 @@
   </p>
 </p>
 
-[![Issues](https://badges.pufler.dev/issues/WAYxTREM/My-School-Madness-BUILDS) 
+![Issues](https://badges.pufler.dev/issues/WAYxTREM/My-School-Madness-BUILDS)
 
 ## Table Of Contents
 
