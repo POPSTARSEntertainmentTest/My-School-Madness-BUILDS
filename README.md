@@ -11,7 +11,7 @@
   </p>
 </p>
 
-![Issues](https://img.shields.io/github/issues/WAYxTREM/My-School-Madness-BUILDS) 
+![Issues](https://badges.pufler.dev/issues/WAYxTREM/My-School-Madness-BUILDS) 
 
 ## Table Of Contents
 
@@ -37,9 +37,3 @@ This game has been built with the UNITY game enigne (ver. 2021.1.0f1)
 ## Authors
 
 * **WAYxTREM** - *Indie Game Developer* - [WAYxTREM](https://github.com/WAYxTREM) - *POPSTARS Entertainment*
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
